@@ -1,0 +1,39 @@
+#topMenu{
+				height: 50px;
+				width: 1170px;
+			}
+			#topMenu ul li {
+				list-style: none;
+				color: white;
+				background-color: #2d2d2d;
+				float: right;
+				line-height: 35px;
+				vertical-align: middle;
+				text-align: center;
+			} 
+			#topMenu .menuLink{
+				text-decoration: none;
+				color: white;
+				display: block;
+				width: 200px;
+				font-size: 12px;
+				font-weight: bold;
+				font-family: "Trebuchet MS", Dotum, Arial;
+			}
+			#topMenu .menuLink:hover{
+				color: limegreen;
+				background-color: #383838;
+			}
+h1 {
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: white;
+	background-color: lightgray;
+	padding: 15px;
+}
+p{
+	text-align: center;
+	font-weight: bold;
+}
